@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiran Koorimi</h1>
 <h3 align="center">A Data Scientist and Statistician</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=koorimikiran-datascientist&label=Profile%20views&color=0e75b6&style=flat" alt="vishnunadh-ai" /> </p> -->
+
 
 - 🌱 I’m currently learning **Advanced Deep Learning, Computer vision and NLP**
 
