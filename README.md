@@ -4,6 +4,8 @@ Hi 👋 My name is Kiran Kumar Koorimi
 Data Scientist
 --------------
 
+I've been learning to code for 3 years, after switching careers. I started with Python, but have really found a passion for Data science
+
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kiran.statistics93@gmail.com](mailto:kiran.statistics93@gmail.com)
 * 🧠  I'm learning Artificial Intelligence
