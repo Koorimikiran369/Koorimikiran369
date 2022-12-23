@@ -9,7 +9,7 @@ I've been learning to code for 3 years, after switching careers. I started with 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kiran.statistics93@gmail.com](mailto:kiran.statistics93@gmail.com)
 * 🧠  I'm learning Artificial Intelligence
-* 🤝  I'm open to collaborating on Python and Machine Learning
+* 🤝  I'm open to collaborating on Python, Machine Learning and OpenCV
 * ⚡  I'm secretly Spiderman.... don't tell anyone
 
 <a href="https://www.github.com/Koorimikiran369" target="_blank" rel="noreferrer"><img
